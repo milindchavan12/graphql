@@ -9,3 +9,6 @@ In 2012, Facebook started the GraphQL internal project to overcome data fecthing
 ### REST vs GraphQL
 
 ![img text](https://github.com/milindchavan12/graphql/blob/master/restvsgraphql.png)
+
+### GraphiQL
+GraphiQL is an in-browser IDE for writing, validating and testing GraphQL quries.
