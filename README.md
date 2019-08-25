@@ -18,3 +18,7 @@ Mutations are used to make changes to the data (CRUD)
 
 ## GraphQL Architecture
 ![img text](https://github.com/milindchavan12/graphql/blob/master/grapgql-architecture.png)
+
+### Resolver
+Resolver function is a function that resolves a value for a type/field in GraphQL Schema.
+
