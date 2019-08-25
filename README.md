@@ -15,3 +15,6 @@ GraphiQL is an in-browser IDE for writing, validating and testing GraphQL querie
 
 ### Mutations
 Mutations are used to make changes to the data (CRUD)
+
+## GraphQL Architecture
+![img text](https://github.com/milindchavan12/graphql/blob/master/grapgql-architecture.png)
